@@ -1,6 +1,6 @@
 # Trading Tool Database
 
-NWK Group has built several codebases, which are stored in Github as private repositories. This is due to the proprietary nature of the code. To document and source these projects, this public repo was created. Stored within are a list of active and non-active programs created, and papers about certain projects. 
+NWK Group has built several aplications, whose codebase is stored in Github Private Repositories. This is due to the proprietary nature of the code. To document and source these projects, this public repo was created. Stored within are a list of active and non-active programs created, and papers about certain projects. 
 
 All materials within are deemed open access distributed under the terms of the Creative Commons Attribution License (CC-BY 4.0), which permits the user to copy, distribute, and transmit the work provided that the original author(s) and source are credited: Alexander Nowak, CFA. NWK Group LLC. 
 
