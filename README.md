@@ -6,10 +6,10 @@ All materials within are deemed open access distributed under the terms of the C
 
 | Project | Status |Paper |
 | ------ | ------ | ------ |
-| Earnings Surprise | Active, Live Trading | Leveraging Advanced Machine Learning for Enhanced Earnings Prediction: A Comprehensive Analysis of the EarningsSurprise (NWK-ES) Trading System  |
-| Option Wheel | Active, Live Trading | Optimizing Options Selling: Using NWK-OptionWheel (NWK-OW) for Combined Volatility Prediction and Strategic Automation |
-| Zig Zag | Active, Live Trading | Momentum-Based, Low-Noise Machine Learning Prediction: A Review of the ZigZag Modeling Toolkit (NWK-ZZ) | XX |
-| Autonomous DCF Trading | Active, Data Gathering  | N/A - Current gathering data necessary to prove the trading tool and its potential. |
-| Deep Correlation Assessment | Active, Data Gathering | N/A - Current gathering data necessary to prove the trading tool and its potential. |
+| Earnings Surprise | Active, Live Trading | [Leveraging Advanced Machine Learning for Enhanced Earnings Prediction: A Comprehensive Analysis of the EarningsSurprise (NWK-ES) Trading System](https://github.com/alexnwk/TradingTools/blob/d8665b48ecf31d2427df453f370aa6cb3398146e/Papers/NWK-EarningsSurprise.pdf)  |
+| Option Wheel | Active, Live Trading | [Optimizing Options Selling: Using NWK-OptionWheel (NWK-OW) for Combined Volatility Prediction and Strategic Automation](https://github.com/alexnwk/TradingTools/blob/d8665b48ecf31d2427df453f370aa6cb3398146e/Papers/NWK-OptionWheel.pdf) |
+| Zig Zag | Active, Live Trading | [Momentum-Based, Low-Noise Machine Learning Prediction: A Review of the ZigZag Modeling Toolkit (NWK-ZZ)](https://github.com/alexnwk/TradingTools/blob/d8665b48ecf31d2427df453f370aa6cb3398146e/Papers/NWK-ZigZag.pdf) |
+| Autonomous DCF Trading | Active, Data Gathering  | N/A - Currently gathering data necessary to prove the trading tool and its potential. |
+| Deep Correlation Assessment | Active, Data Gathering | N/A - Currently gathering data necessary to prove the trading tool and its potential. |
 | Chart Detective | Discontinued | N/A - Inconclusive results led to project termination. |
 | Golden Classifier | Discontinued | N/A - Inconclusive results led to project termination. |
