@@ -1,16 +1,17 @@
 # Trading Tool Database
 
-NWK Group has built several aplications, whose codebase is stored in Github Private Repositories. This is due to the proprietary nature of the code. To document and source these projects, this public repo was created. Stored within are a list of active and non-active programs created, and papers about certain projects. 
+NWK Group owns the assets for several financial applications, whose codebase are stored in Github Private Repositories. This is due to the proprietary nature of the code. To document and source these projects, this public repo was created. Stored within are a list of active and non-active programs created, and papers about certain projects. 
 
 All materials within are deemed open access distributed under the terms of the Creative Commons Attribution License (CC-BY 4.0), which permits the user to copy, distribute, and transmit the work provided that the original author(s) and source are credited: Alexander Nowak, CFA. NWK Group LLC. 
 
 | Project | Status |Paper |
 | ------ | ------ | ------ |
-| Earnings Surprise | Active, Live Trading | [Leveraging Advanced Machine Learning for Enhanced Earnings Prediction: A Comprehensive Analysis of the EarningsSurprise (NWK-ES) Trading System](https://github.com/alexnwk/TradingTools/blob/d8665b48ecf31d2427df453f370aa6cb3398146e/Papers/NWK-EarningsSurprise.pdf)  |
-| Option Wheel | Active, Live Trading | [Optimizing Options Selling: Using NWK-OptionWheel (NWK-OW) for Combined Volatility Prediction and Strategic Automation](https://github.com/alexnwk/TradingTools/blob/d8665b48ecf31d2427df453f370aa6cb3398146e/Papers/NWK-OptionWheel.pdf) |
-| Zig Zag | Active, Live Trading | [Momentum-Based, Low-Noise Machine Learning Prediction: A Review of the ZigZag Modeling Toolkit (NWK-ZZ)](https://github.com/alexnwk/TradingTools/blob/d8665b48ecf31d2427df453f370aa6cb3398146e/Papers/NWK-ZigZag.pdf) |
-| Winner Trading | Active, Live Trading  | Follows the age-old stock quote of buy what's working. Advances this view with fundamental analysis, technical view and quantitiative assessment to go long a selection of favorites at consistent timepoints. A second version shorts the losers, with the option to be market neutral. |
+| FSiC | Active, Live Trading | [Converting Stock Winner Insights into Code: A Review of the Financial Strength into Code (FSiC) Screening & Trading System ](https://github.com/alexnwk/TradingTools/blob/b9845d5285c6596024f3a6c182460c15e8b7f88d/Papers/NWK-FSiC%20Paper.pdf) |
+| Earnings Surprise | Active, Live Trading | [Leveraging Advanced Machine Learning for Enhanced Earnings Prediction: A Comprehensive Analysis of the EarningsSurprise (ES) Trading System](https://github.com/alexnwk/TradingTools/blob/b9845d5285c6596024f3a6c182460c15e8b7f88d/Papers/NWK-EarningsSurprise%20Paper.pdf)  |
+| Option Wheel | Active, Live Trading | [Optimizing Options Selling: Using OptionWheel (OW) for Combined Volatility Prediction and Strategic Income Generation](https://github.com/alexnwk/TradingTools/blob/b9845d5285c6596024f3a6c182460c15e8b7f88d/Papers/NWK-OptionWheel%20Paper.pdf) |
+| Zig Zag | Active, Data Gathering | [Momentum-Based, Low-Noise Machine Learning Prediction: A Review of the ZigZag Modeling Toolkit (ZZ)](https://github.com/alexnwk/TradingTools/blob/b9845d5285c6596024f3a6c182460c15e8b7f88d/Papers/NWK-ZigZag%20Paper.pdf) |
+| LLMs for Sentiment Trading | Active, Data Gathering  | N/A - Currently gathering data necessary to prove the trading tool and its potential. |
 | Autonomous DCF Trading | Active, Data Gathering  | N/A - Currently gathering data necessary to prove the trading tool and its potential. |
-| Deep Correlation Assessment | Active, Data Gathering | N/A - Currently gathering data necessary to prove the trading tool and its potential. |
-| Chart Detective | Discontinued | N/A - Inconclusive results led to project termination. |
+| Deep Correlation Assessment | Discontinued | N/A - Inconclusive results led to project termination. |
+| Visual Chart Detective | Discontinued | N/A - Inconclusive results led to project termination. |
 | Golden Classifier | Discontinued | N/A - Inconclusive results led to project termination. |
